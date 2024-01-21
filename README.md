@@ -1,4 +1,4 @@
-# Drop_Shipping_Website
+# Drop Shipping Website
 Runs index.php locally. \
 parser.py goes through the list of links to Walgreens and Riteaid website product pages and webscrapes the page for product name, image, price, and description. \
 The webscraped information is stored in an SQL database every 6 hours which is automated by the products.sh script. \
